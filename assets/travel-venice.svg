@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img">
+  <title>Venice photo placeholder</title>
+  <rect width="1600" height="1000" fill="#E6E4DD"/>
+  <rect y="620" width="1600" height="380" fill="#D2D0C8"/>
+  <rect x="220" y="210" width="70" height="410" fill="#B8B6AE"/>
+  <rect x="360" y="160" width="86" height="460" fill="#C4C2BA"/>
+  <rect x="520" y="240" width="64" height="380" fill="#B0AEA6"/>
+  <rect x="680" y="120" width="96" height="500" fill="#C9C7BF"/>
+  <rect x="860" y="200" width="72" height="420" fill="#B8B6AE"/>
+  <rect x="1020" y="150" width="88" height="470" fill="#C2C0B8"/>
+  <rect x="220" y="620" width="70" height="150" fill="#C8C6BE" opacity="0.45"/>
+  <rect x="360" y="620" width="86" height="170" fill="#D0CEC6" opacity="0.4"/>
+  <rect x="520" y="620" width="64" height="130" fill="#C8C6BE" opacity="0.35"/>
+  <rect x="680" y="620" width="96" height="190" fill="#D4D2CA" opacity="0.4"/>
+  <rect x="860" y="620" width="72" height="150" fill="#C8C6BE" opacity="0.35"/>
+  <rect x="1020" y="620" width="88" height="170" fill="#D0CEC6" opacity="0.4"/>
+  <text x="80" y="920" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="22" fill="#181816">威尼斯 · 替换为实地照片</text>
+</svg>

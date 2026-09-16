@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img">
+  <title>Cockpit abstract placeholder</title>
+  <rect width="1200" height="800" fill="#E4E2DA"/>
+  <rect x="80" y="90" width="620" height="390" fill="#FAF9F6" stroke="#181816" stroke-opacity="0.16"/>
+  <rect x="740" y="90" width="380" height="180" fill="#D8D6CE"/>
+  <rect x="740" y="300" width="380" height="180" fill="#FAF9F6" stroke="#181816" stroke-opacity="0.16"/>
+  <rect x="80" y="520" width="300" height="190" fill="#D8D6CE"/>
+  <rect x="410" y="520" width="710" height="190" fill="#FAF9F6" stroke="#181816" stroke-opacity="0.16"/>
+  <line x1="110" y1="140" x2="360" y2="140" stroke="#9A9994" stroke-width="2"/>
+  <line x1="110" y1="168" x2="290" y2="168" stroke="#181816" stroke-opacity="0.2" stroke-width="2"/>
+  <text x="80" y="760" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="18" fill="#9A9994">TODO：替换为项目图</text>
+</svg>

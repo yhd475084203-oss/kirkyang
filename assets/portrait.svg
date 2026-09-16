@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="portraitTitle portraitDesc">
+  <title id="portraitTitle">Replace with Kirk portrait</title>
+  <desc id="portraitDesc">Vertical 3:4 placeholder. Keep the same frame when swapping a real photo.</desc>
+  <rect width="900" height="1200" fill="#E8E6DF"/>
+  <rect x="48" y="48" width="804" height="1104" fill="none" stroke="#181816" stroke-opacity="0.18" stroke-width="1"/>
+  <line x1="180" y1="210" x2="720" y2="210" stroke="#181816" stroke-opacity="0.12" stroke-width="1"/>
+  <line x1="180" y1="990" x2="720" y2="990" stroke="#181816" stroke-opacity="0.12" stroke-width="1"/>
+  <line x1="450" y1="280" x2="450" y2="920" stroke="#181816" stroke-opacity="0.06" stroke-width="1"/>
+  <text x="450" y="588" text-anchor="middle" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="28" fill="#181816">替换为 Kirk 肖像</text>
+  <text x="450" y="628" text-anchor="middle" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="16" fill="#9A9994">竖幅 3:4 · 本地占位</text>
+</svg>

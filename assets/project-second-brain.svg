@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="brainTitle">
+  <title id="brainTitle">第二大脑项目占位图</title>
+  <rect width="1200" height="800" fill="#E7E5DE"/>
+  <line x1="220" y1="250" x2="520" y2="390" stroke="#181816" stroke-opacity="0.28"/>
+  <line x1="520" y1="390" x2="860" y2="230" stroke="#181816" stroke-opacity="0.28"/>
+  <line x1="520" y1="390" x2="780" y2="560" stroke="#181816" stroke-opacity="0.28"/>
+  <line x1="220" y1="250" x2="340" y2="560" stroke="#181816" stroke-opacity="0.18"/>
+  <circle cx="220" cy="250" r="18" fill="#FAF9F6" stroke="#181816"/>
+  <circle cx="520" cy="390" r="28" fill="#181816"/>
+  <circle cx="860" cy="230" r="14" fill="#FAF9F6" stroke="#9A9994"/>
+  <circle cx="780" cy="560" r="16" fill="#FAF9F6" stroke="#181816"/>
+  <circle cx="340" cy="560" r="11" fill="#9A9994"/>
+  <text x="80" y="760" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="18" fill="#9A9994">TODO：替换为项目图</text>
+</svg>

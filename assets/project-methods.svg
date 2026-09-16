@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img">
+  <title>Methods abstract placeholder</title>
+  <rect width="1200" height="800" fill="#E5E3DC"/>
+  <rect x="250" y="150" width="520" height="430" fill="#D4D2CA" transform="rotate(-4 510 365)"/>
+  <rect x="280" y="170" width="520" height="430" fill="#ECEAE3" transform="rotate(-1.5 540 385)"/>
+  <rect x="330" y="200" width="520" height="430" fill="#FAF9F6" stroke="#181816" stroke-opacity="0.16"/>
+  <line x1="380" y1="280" x2="760" y2="280" stroke="#181816" stroke-opacity="0.35" stroke-width="2"/>
+  <line x1="380" y1="320" x2="690" y2="320" stroke="#9A9994" stroke-width="2"/>
+  <line x1="380" y1="352" x2="720" y2="352" stroke="#9A9994" stroke-width="2"/>
+  <line x1="380" y1="384" x2="640" y2="384" stroke="#9A9994" stroke-width="2"/>
+  <text x="80" y="760" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="18" fill="#9A9994">TODO：替换为项目图</text>
+</svg>

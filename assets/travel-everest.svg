@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img">
+  <title>Everest photo placeholder</title>
+  <rect width="1600" height="1000" fill="#EDEBE4"/>
+  <path d="M0 720 L380 430 L520 540 L780 250 L980 470 L1180 330 L1600 690 V1000 H0 Z" fill="#C9C6BC"/>
+  <path d="M780 250 L860 360 L780 390 L720 350 Z" fill="#FAF9F6"/>
+  <line x1="80" y1="180" x2="280" y2="180" stroke="#9A9994" stroke-width="1"/>
+  <text x="80" y="920" font-family="Helvetica Neue, Helvetica, PingFang SC, sans-serif" font-size="22" fill="#181816">珠峰 · 替换为实地照片</text>
+</svg>
